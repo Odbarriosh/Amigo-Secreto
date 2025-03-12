@@ -8,7 +8,7 @@ Es un mezclador aleatorio de nombres para el juego amigo secreto.
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone 
+    git clone https://github.com/Odbarriosh/Amigo-Secreto.git
     ```
 
 2. Navega al directorio del proyecto:
