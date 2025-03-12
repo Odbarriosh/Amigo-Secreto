@@ -4,7 +4,16 @@
 
 Es un mezclador aleatorio de nombres para el juego amigo secreto. 
 
-<h2>Como usarlo</h2>
+<h2>Como instalar</h2>
 
-Primero digitar los nombre de los participantes del juego.
-Segundo, 
+1. Clona el repositorio en tu máquina local:
+    ```bash
+    git clone 
+    ```
+
+2. Navega al directorio del proyecto:
+    ```bash
+    cd challenge-amigo-secreto_esp-main
+    ```
+
+3. Abre el archivo `index.html` en tu navegador favorito para empezar a usar la aplicación.
